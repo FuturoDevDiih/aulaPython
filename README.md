@@ -1,4 +1,4 @@
 # aulaPython
 
-#TESTE COMMIT
+#
 
